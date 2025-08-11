@@ -13,6 +13,7 @@
 **Auxiliares:** 
 + Joshelyn Yanori Mendoza Alfaro  
 + Fernando Ramírez González
+
 ## Objetivo General
 Manejar tecnologías de procesamiento de datos a gran escala y aprender métodos estadísticos y de machine learning utilizando herramientas open source y Python para predecir tendencias y comportamientos.
 
